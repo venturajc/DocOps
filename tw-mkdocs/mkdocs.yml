@@ -2,6 +2,7 @@ site_name: Wizeline DocOps Template
 nav:
   - Home: index.md
   - About: about.md
+  - JC-Test: jc-test.md
   
 theme:
   name: material
