@@ -1,19 +1,11 @@
-site_name: Juan Pablo's TW Profile
+site_name: Wizeline DocOps Template
 nav:
-  - About: index.md
-  - Education: education.md
-  - Experience: experience.md
-  - 'Skills':
-    - 'Technical Writing': 'skill-1.md'
-    - 'Written and Spoken English': 'skill-2.md'
-    - 'Adobe Creative Suite': 'skill-3.md'
-  - Selected Past Work: past-work.md
-  - README Exercise: MDexercise.md
-  - Test of New File: newfile.md
-
+  - Home: index.md
+  - About: about.md
+  
 theme:
   name: material
+  palette:
+    primary: black
+    accent: indigo
   logo: images/wizeline_isotype.png
-
-extra_css:
-  - css/style.css

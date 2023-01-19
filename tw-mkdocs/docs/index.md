@@ -1,4 +1,35 @@
-# "Insert your name, here"
+# Tw DocOps Course
 
-<img src="./images/jp-pic.jpg" width="150">
+**My paragraph**:
+
+LoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsum
+
+---
+**My bulleted list**: 
+
+* Item 1
+* Item 2
+* Item 3
+
+
+---
+**My numbered list**:
+  
+  1. Item
+  2. Item
+  3. Item
+
+
+---
+**My table**:
+
+
+
+---
+**My code block**:
+
+
+
+
+**This is a different code block**:
 
