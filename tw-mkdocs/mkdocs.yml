@@ -6,7 +6,6 @@ nav:
   
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
   logo: images/wizeline_isotype.png
+extra_css:
+    - css/style.css
